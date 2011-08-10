@@ -1,5 +1,5 @@
 Fuck yeah!
 
-Chocho conflict255
+Chocho
 
 Upyachka!
