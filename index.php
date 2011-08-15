@@ -6,6 +6,6 @@
  */
 
 
-echo 'Kill all humans 6';
+echo 'Kill all humans 7';
 
 ?>
