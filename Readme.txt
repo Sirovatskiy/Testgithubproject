@@ -1,5 +1,1 @@
 Fuck yeah!
-
-Chocho
-
-Upyachka!
